@@ -28,3 +28,10 @@ ul{
     text-align: center;
     vertical-align: middle;
 }
+
+ol{
+    display: table;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
